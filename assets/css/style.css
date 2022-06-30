@@ -1,0 +1,32 @@
+
+     @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+
+
+
+* {
+         font-family : Montserrat;
+ }
+
+.btn-purple{
+    background-color: #521944;
+    color: #fff;
+}
+
+/* header */
+
+.nav-violet{
+    background-color:#521945;
+  }
+  
+  .nav-item {
+      padding: 1rem;   
+  }
+  
+  /* COULEUR DU TEXTE DANS LE DROPDOWN */
+  .dropdown-item {
+      color:#521945;
+  }
+  
+  .btn btn-warning{
+      background-color: #eceb1e;
+  }
