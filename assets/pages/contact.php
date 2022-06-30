@@ -7,7 +7,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if (!empty($_POST['name']) && !empty($_POST['email']) && !empty($_POST['phone']) && !empty($_POST['message'])) {
         //var_dump($_POST);
         $message = "Bonjour vous avez reçu un message de " . $_POST['name'] . " (" . $_POST['email'] . ") : " . $_POST['message'];
-        mail('africalacourneuve@gmail.com', 'sujet', $message);
+        mail('africalacourneuve@gmail.com
+        ', 'sujet', $message);
     } else {
         $error = 'Veuillez remplir tous les champs';
     }
