@@ -68,14 +68,19 @@
     
             <ul class="list-unstyled">
               <li class="mb-2" style="img-fluid">
-                <img src="../images/LOGO CONSEIL DEPARTEMENTAL 93.png" alt="Seine Saint-Denis" height="150" alt="Logo"
-                   loading="lazy">
+              <a href="https://seinesaintdenis.fr/"target="_blank">
+                <img src="../images/LOGO CONSEIL DEPARTEMENTAL 93.png" alt="Seine Saint-Denis" height="110" width="190"> 
+              </a>
               </li>
-              <li class="mb-2">
-                <img src="../images/LOGO AFRICA.jpg" alt="Seine Saint-Denis">
+              <li class="mb-2"style="img-fluid">
+              <a href="https://fondationdesfemmes.org/"target="_blank">
+                <img src="../images/Logo_Fondation_des_Femmes.png" alt="Logo"height="110" width="190">
+              </a>
               </li>
-              <li class="mb-2">
-                <img src="../images/LOGO AFRICA.jpg" alt="Seine Saint-Denis">
+              <li class="mb-2"style="img-fluid">
+              <a href="https://lacourneuve.fr/"target="_blank">
+                <img src="../images/LOGO MAIRIE LA COURNEUVE.png" alt="Logo"height="110" width="190">
+              </a>
               </li>
             </ul>
           </div>
