@@ -19,7 +19,7 @@
 
             <div class="px-2">
                 <a class="navbar-brand" href="accueil.php">
-                    <img src="../images/Copie de LOGO AFRICA.jpg" alt="Logo" href="#" class="my-2">
+                    <img src="../images/Copie de LOGO AFRICA.jpg" alt="Logo" href="../pages/accueil.php" class="my-2">
                 </a>
             </div>
 
@@ -40,10 +40,10 @@
                         Ateliers
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <li><a class="dropdown-item" href="ateliers.php">Ateliers enfants</a></li>
-                            <li><a class="dropdown-item" href="ateliers.php">Ateliers confiance en soi</a></li>
-                            <li><a class="dropdown-item" href="ateliers.php">Atelier santé sexuelle</a></li>
-                            <li><a class="dropdown-item" href="ateliers.php">Atelier friperie/couture/machine à laver</a></li>
+                            <li><a class="dropdown-item" href="ateliers.php#atelierenfants">Ateliers enfants</a></li>
+                            <li><a class="dropdown-item" href="ateliers.php#confianceensoi">Ateliers confiance en soi</a></li>
+                            <li><a class="dropdown-item" href="ateliers.php#sante">Atelier santé sexuelle</a></li>
+                            <li><a class="dropdown-item" href="ateliers.php#fcm">Atelier friperie/couture/machine à laver</a></li>
                         </ul>
                     </li>
                 <div class=""></div>
@@ -53,10 +53,10 @@
                     Evénements
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="evenements.php" >Les 20 ans d'AFRICA</a></li>
-                        <li><a class="dropdown-item" href="evenements.php" >Manifestations</a></li>
-                        <li><a class="dropdown-item" href="evenements.php" >Repas solidaire</a></li>
-                        <li><a class="dropdown-item" href="evenements.php" >Distribution de kit d'hygiène</a></li>
+                        <li><a class="dropdown-item" href="evenements.php#les20ans">Les 20 ans d'AFRICA</a></li>
+                        <li><a class="dropdown-item" href="evenements.php#nosmanifs" >Manifestations</a></li>
+                        <li><a class="dropdown-item" href="evenements.php#lesrepas" >Repas solidaire</a></li>
+                        <li><a class="dropdown-item" href="evenements.php#distribution" >Distribution de kit d'hygiène</a></li>
 
                     </ul>
                 </li>
@@ -67,8 +67,8 @@
                     Cours
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="cours.php">Cours d'informatique</a></li>
-                        <li><a class="dropdown-item" href="cours.php">Cours linguistique</a></li>
+                        <li><a class="dropdown-item" href="cours.php#coursinfo">Cours d'informatique</a></li>
+                        <li><a class="dropdown-item" href="cours.php#coursfrançais">Cours linguistique</a></li>
                     </ul>
                 </li>
                     <div class=""></div>
@@ -82,7 +82,9 @@
                     <a class="nav-link" href="partenaires" style="color: white;">Nos partenaires</a>
                 </li>
                 <li class="nav-item">
-                    <button type="button"  href="contact.php" class="btn" style="background-color: #eceb1e;">Contribuer</button>     
+                <a href="../pages/contact.php">
+                    <button type="button"  href="contact.php" class="btn" style="background-color: #eceb1e;">Contribuer</button>
+                </a>
                 </li>
 
             </ul>

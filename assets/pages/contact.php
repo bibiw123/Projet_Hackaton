@@ -36,7 +36,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <body>
 <section class="container my-3">
-    <h1>Contact</h1>
+<div class="section-titre">
+    <h2 class="taille" style="color:#521945">CONTACT</h2>
+</div>
     <br>
     <div class="row">
         <div class="col-lg-6 col-md-6 col-xs-12">
