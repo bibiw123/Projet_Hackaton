@@ -1,7 +1,7 @@
 <?php include('../data/db.php'); ?>
 <?php  include('header.php');?>
 
-<section class="container bg-white">
+<section class="container">
 
 <div class="section-titre">
     <h2 class="taille" style="color:#521945">NOS EVENEMENTS</h2>

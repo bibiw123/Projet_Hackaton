@@ -10,7 +10,17 @@
     <script src="https://kit.fontawesome.com/f9cf54aa18.js" crossorigin="anonymous"></script>
 </head>
 <body>
-
+<style>
+   body{
+     background-color: #fce3d3;
+   }
+   .section-titre h2{
+    background-color: #fce3d3;
+   }
+   .btn {
+    font-we
+  }
+   </style>
 <nav class="navbar navbar-expand-lg navbar-light pt-0" >
     <div class="container-fluid" style= "background-color:#521945">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
