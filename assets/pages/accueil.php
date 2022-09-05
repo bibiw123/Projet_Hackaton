@@ -3,7 +3,7 @@
 
 
 
-<!-- CARROUSSEL -->
+<!-- CARROUSSEL accueil --> 
 
 <h1 class="slogan mt-5"><em>"Pour une réelle citoyenneté quelque soit la nationalité."</em></h1>
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false" style="width:70%;">
