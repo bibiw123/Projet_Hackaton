@@ -5,7 +5,7 @@
 
 <!-- CARROUSSEL accueil --> 
 
-<h1 class="slogan mt-5"><em>"Pour une réelle citoyenneté quelque soit la nationalité."</em></h1>
+<h1 class="slogan mt-8"><em>"Pour une réelle citoyenneté quelque soit la nationalité."</em></h1>
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false" style="width:70%;">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
